@@ -11,3 +11,5 @@ Download the standalone exe file : <a href="https://github.com/shayansaha85/2DPl
   <li>pandas : Use command : <code>pip install pandas</code></li>
   <li>matplotlib : Use command : <code>pip install matplotlib</code></li>
 </ol>
+
+<strong>Note :</strong> <p> If your OS shows any warning screen not to run, please click on 'More Info' and click on 'Run anyway' </p>
