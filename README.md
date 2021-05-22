@@ -12,4 +12,4 @@ Download the standalone exe file : <a href="https://github.com/shayansaha85/2DPl
   <li>matplotlib : Use command : <code>pip install matplotlib</code></li>
 </ol>
 
-<strong>Note :</strong> <p> If your OS shows any warning screen not to run, please click on 'More Info' and click on 'Run anyway' </p>
+<strong>Note :</strong> <p> If your OS shows any warning screen for not running the app, please click on 'More Info' and click on 'Run anyway' </p>
