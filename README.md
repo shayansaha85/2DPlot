@@ -11,9 +11,10 @@ Download the standalone exe file : <a href="https://github.com/shayansaha85/2DPl
 
 <h1>Structure</h1>
 <ol>
-  <li>Python : https://www.python.org</li>
-  <li>pandas : Use command : <code>pip install pandas</code></li>
-  <li>matplotlib : Use command : <code>pip install matplotlib</code></li>
+  <li>Python : <a href="https://www.python.org">Download link</a></li>
+  <li>openpyxl : <code>pip install openpyxl</code></li>
+  <li>pandas : <code>pip install pandas</code></li>
+  <li>matplotlib : <code>pip install matplotlib</code></li>
 </ol>
 
 <p><strong>Note :</strong> If your OS shows any warning screen for not running the app, please click on 'More Info' and click on 'Run anyway' </p>
