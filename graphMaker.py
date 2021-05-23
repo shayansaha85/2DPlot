@@ -3,17 +3,6 @@ import os
 import pandas as pd
 import shutil
 
-def gen_graph_html(csvfile, columnx, columny):
-    df = pd.read_csv(csvfile)
-    x = list(df[columnx])
-    y = list(df[columny])
-
-    plt.plot(x, y)
-    plt.xlabel(columnx)
-    plt.ylabel(columny)
-    os.system("mkdir report")
-    plt.savefig("report/" + csvfile + ".png", dpi=100)
-
 def barGraph(x,y,title,labelx,labely,filename):
     plt.bar(x,y)
     plt.title(title)
@@ -39,7 +28,6 @@ def pngFileName(title):
 def print_centre(s):
     print(s.center(shutil.get_terminal_size().columns))
 
-toFloat = lambda x:float(x)
 
 heading1 = "2D PLOT by Shayan"
 heading2 = "==============================================================================="
