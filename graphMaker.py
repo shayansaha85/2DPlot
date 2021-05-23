@@ -106,8 +106,8 @@ filenameForLine = pngFileName(title) + "_lineGraph.png"
 
 userData = {labelx:x, labely:y}
 df = pd.DataFrame(userData)
-csvFileName = pngFileName(title)+".csv"
-df.to_csv(csvFileName,index=False)
+xlFileName = pngFileName(title)+".xlsx"
+df.to_excel(xlFileName,index=False)
 
 option = 't'
 options = ['1','2','3']
